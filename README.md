@@ -3,7 +3,7 @@
 A new Flutter application.
 
 
-##DEMO
+## DEMO
 
 
 ## Getting Started
